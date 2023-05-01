@@ -1,0 +1,11 @@
+veiculo	cliente	origem	destino	km_rodado	qt_dias_reserva	qt_dias_realizado
+1	Ana	Canoas	Porto Alegre	674	3	3
+2	Pedro	Sao Leopoldo			6	
+3	Ivan	Canoas	Canoas	291	2	4
+4	Sofia	Pelotas	Curitiba	1433	5	3
+5	Maria	Criciuma			3	
+6	Ana	Florianopolis			4	
+7	Pedro	Sao Leopoldo	Sao Leopoldo	478	2	4
+8	Marcos	Canoas	Porto Alegre	917	4	3
+9	Marcos	Pelotas			5	
+10	Sofia	Criciuma	Lages	545	4	4
