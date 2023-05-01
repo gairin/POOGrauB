@@ -7,3 +7,5 @@ Entrega do Grau B da cadeira Programação Orientada a Objetos
 Este é um trabalho antigo que eu calhei de dar upload.
 
 É funcional mas a qualidade de código não deve ser a melhor.
+
+Contém histórico de versões até a final.
